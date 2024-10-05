@@ -7,6 +7,7 @@
 4. Then Start The Game Press Any Key To Start.
 5. Random Box Is Flash.
 6. Pattern Matching Most Important Feature Added In These Game.
-7.The Game Pattern And User Pattern Is Match Then The Level Is Up.
-8.High Score Is Display For If Any New User Played These Game They Know
+7. The Game Pattern And User Pattern Is Match Then The Level Is Up.
+8. High Score Is Display For If Any New User Played These Game They Know
 What Was Past High Score.
+
